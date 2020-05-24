@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RainAlert</string>
+    <string name="channel_name">Alert Channel</string>
+    <string name="channel_description">"Rain report channel"</string>
+</resources>
